@@ -1,0 +1,31 @@
+{
+  "name": "ReadyGames",
+  "version": "0.0.0",
+  "authors": [
+    "COANelmejor <coanelmejor@gmail.com>"
+  ],
+  "description": "Juegos Online para todos",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "juegos",
+    "online",
+    "flash",
+    "unity3D",
+    "unity"
+  ],
+  "license": "MIT",
+  "homepage": "http://readygames.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  }
+}
